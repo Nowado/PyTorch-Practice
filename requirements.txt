@@ -1,0 +1,7 @@
+numpy=1.16.2=py37h19fb1c0_0
+pandas=0.24.2=py37ha925a31_0
+pytorch=1.0.1=cpu_py37h39a92a0_0
+scikit-learn=0.20.3=py37h343c172_0
+scipy=1.4.1=pypi_0
+torch=1.1.0=pypi_0
+torchvision=0.2.1=py_2
